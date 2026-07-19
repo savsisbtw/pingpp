@@ -1,0 +1,10 @@
+# pingpp
+
+> CLI in C++ that measures latency and jitter to a list of host:port targets using plain TCP connect timing, no ICMP and no administrator rights required.
+
+Written for Windows, built with CMake and MSVC.
+
+## Docs
+
+- [README](https://github.com/ImSavsis/pingpp/blob/master/README.md): build and usage instructions, architecture diagram
+- [src/main.cpp](https://github.com/ImSavsis/pingpp/blob/master/src/main.cpp): non-blocking connect timing and jitter calculation
