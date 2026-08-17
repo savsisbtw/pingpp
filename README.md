@@ -1,7 +1,7 @@
 # pingpp
 
-[![CI](https://github.com/ImSavsis/pingpp/actions/workflows/ci.yml/badge.svg)](https://github.com/ImSavsis/pingpp/actions/workflows/ci.yml)
-[![license](https://img.shields.io/github/license/ImSavsis/pingpp.svg)](https://github.com/ImSavsis/pingpp/blob/master/LICENSE)
+[![CI](https://github.com/devsavsis/pingpp/actions/workflows/ci.yml/badge.svg)](https://github.com/devsavsis/pingpp/actions/workflows/ci.yml)
+[![license](https://img.shields.io/github/license/ImSavsis/pingpp.svg)](https://github.com/devsavsis/pingpp/blob/master/LICENSE)
 
 меряет задержку и джиттер до хостов через обычный TCP-connect, без ICMP и прав администратора. удобно быстро глянуть какая VPN-нода бодрее.
 
