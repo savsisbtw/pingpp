@@ -6,5 +6,5 @@ Written for Windows, built with CMake and MSVC.
 
 ## Docs
 
-- [README](https://github.com/ImSavsis/pingpp/blob/master/README.md): build and usage instructions, architecture diagram
-- [src/main.cpp](https://github.com/ImSavsis/pingpp/blob/master/src/main.cpp): non-blocking connect timing and jitter calculation
+- [README](https://github.com/devsavsis/pingpp/blob/master/README.md): build and usage instructions, architecture diagram
+- [src/main.cpp](https://github.com/devsavsis/pingpp/blob/master/src/main.cpp): non-blocking connect timing and jitter calculation
